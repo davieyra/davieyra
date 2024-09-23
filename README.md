@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @davieyra also known as Daniel Vieyra!
+- 👀 I’m interested in data statistics specially when analyzing my favorite things: sports, technology, videogames.
+- 🌱 I’m currently learning how to further my skills in data science.
+- 💞️ I’m looking to collaborate on data science project related to my interests.
+- 📫 How to reach me shoot me a message here or on my linked in page.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: As a kid I used to track statistics of my favorite soccer teams and players and do analytics and performance projections for my EA FIFA manager sabes.
